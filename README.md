@@ -1,4 +1,4 @@
-## Hi there 👋
+![SpinningStarYellowGIF](https://github.com/user-attachments/assets/4fbece7c-a413-47f3-a794-d131ce3fdea7)## Hi there 👋
 
 <!--
 **lovedlim/lovedlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-4870836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
 - 📌 Founder of SideOnAI | Data Scientist & Developer 
-- 📌 Ex- DB Inc. Riid, CodeStates, Modulabs
-- 📌 TensorFlow Developers Certificate
+- 📌 Ex- DB Inc., Riid, CodeStates, Modulabs
+- 📌 TensorFlow Developers Certificate | Kaggle Notebook Expert
+- 📌 2024년 인프런 어워드 "답변왕" - 올해 가장 많은 답변을 남긴 지식공유자
 
 ### 온라인 강의(VOD)
+- ⭐ 인프런 강의 수강자 4.7k (만족도 4.9/5점 만점)
 - 🌱 [만약 "영업사원"이 바이브 코딩을 배운다면 (Bolt)](https://inf.run/vsGXs)
 - 👯 [바이브 코딩으로 만드는 재미있는 재무제표 (커서 ai)](https://inf.run/dhPNo)
 - 🤔 [[퇴근후딴짓] 빅데이터 분석기사 실기 (작업형1,2,3)](https://inf.run/HYmN)
