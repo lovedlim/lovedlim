@@ -35,11 +35,19 @@ Here are some ideas to get you started:
 
 ### 💻 **강의/강연**
 2025년 
-- ✔️ 모두의연구소 - 
-- ✔️ 중앙여고 - 
-- ✔️ 전자신문 - 
-- ✔️ 메타코드 - 
-- ✔️ 전자신문 - 
-- 
+- ✔️ 모두의연구소 - [n8n, AI를 나만의 업무 파트너로](https://event-us.kr/modu/event/100282)
+- ✔️ 중앙여고 - 커서AI와 V0를 활용한 웹사이트 만들기
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 1차](https://conference.etnews.com/conf_info.html?uid=385)
+- ✔️ 넥슨코리아 사내 동아리 - 
+- ✔️ 메타코드 - [Vibe Coding 실무형 1 Day 워크숍](https://www.datanet.co.kr/news/articleView.html?idxno=203465)
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 2차](https://conference.etnews.com/conf_info.html?uid=406)
+<!--
+- ✔️ 멀티캠퍼스
+- ✔️ 한국여성정책연구원
+- ✔️ 성남시청소년재단
+- ✔️ 국토안전관리원
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 3차](https://conference.etnews.com/conf_info.html?uid=417)
+- ✔️ KISA 2025 블록체인 밋업데이
+-->
 
 
