@@ -1,4 +1,5 @@
-![SpinningStarYellowGIF](https://github.com/user-attachments/assets/4fbece7c-a413-47f3-a794-d131ce3fdea7)## Hi there 👋
+![SpinningStarYellowGIF](https://github.com/user-attachments/assets/4fbece7c-a413-47f3-a794-d131ce3fdea7)
+## Hi there 👋
 
 <!--
 **lovedlim/lovedlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
