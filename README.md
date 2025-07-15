@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.youtube.com/c/@ai-study" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-4870836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
-📌 Founder of SideOnAI | Data Scientist & Developer 
-📌 Ex- DB Inc. Riid, CodeStates, Modulabs
-📌 TensorFlow Developers Certificate
+- 📌 Founder of SideOnAI | Data Scientist & Developer 
+- 📌 Ex- DB Inc. Riid, CodeStates, Modulabs
+- 📌 TensorFlow Developers Certificate
 
 ### 온라인 강의(VOD)
 - 🌱 [만약 "영업사원"이 바이브 코딩을 배운다면 (Bolt)](https://inf.run/vsGXs)
