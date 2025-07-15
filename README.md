@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
 
 ### 학습 커뮤니티 리딩
-- 2020.5 ~ 2024.12 [캐글/머신러닝 학습 모임](https://github.com/lovedlim/ml-study) (200회 이상)
+- 2020.5 ~ 2024.12 [캐글/AI 학습 모임](https://github.com/lovedlim/ml-study) (200회 이상)
 
 ### 💻 **강의/강연**
 2025년 
