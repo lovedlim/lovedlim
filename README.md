@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ## 퇴근후딴짓 (김태헌) 👋
 
 <p align="left">
-<a href="https://www.youtube.com/c/@ai-study" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
-  
+<a href="https://www.youtube.com/c/@ai-study" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-4870836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
 - 📌 Founder of SideOnAI | Data Scientist & Developer 
