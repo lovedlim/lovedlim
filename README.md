@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🌱 [만약 "영업사원"이 바이브 코딩을 배운다면 (Bolt)](https://inf.run/vsGXs)
 - 👯 [바이브 코딩으로 만드는 재미있는 재무제표 (커서 ai)](https://inf.run/dhPNo)
 - 🤔 [[퇴근후딴짓] 빅데이터 분석기사 실기 (작업형1,2,3)](https://inf.run/HYmN)
-- 모두의연구소
 
 ### 저서 (Books)
 - 😄 [2026 시나공 빅데이터분석기사 실기(Python)](https://product.kyobobook.co.kr/detail/S000216355151) / 개정판
