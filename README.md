@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### 온라인 강의 (VOD)
 - ⭐ 인프런 강의 수강자 4.7k (만족도 4.9/5점 만점)
+- 👯 [정부 AI 정책 시대! 바이브코딩으로 만드는 공공데이터 AI 서비스](https://inf.run/r5YLp)
 - 🌱 [만약 "영업사원"이 바이브 코딩을 배운다면 (Bolt)](https://inf.run/vsGXs)
 - 👯 [바이브 코딩으로 만드는 재미있는 재무제표 (커서 ai)](https://inf.run/dhPNo)
 - 🤔 [[퇴근후딴짓] 빅데이터 분석기사 실기 (작업형1,2,3)](https://inf.run/HYmN) - 파이썬, 머신러닝, 통계
