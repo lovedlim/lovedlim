@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ✔️ 중앙여고 - 커서AI와 V0를 활용한 웹사이트 만들기
 - ✔️ 강남서초교육지원청(교사 대상) - 생성형 AI 활용
 - ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 1차](https://conference.etnews.com/conf_info.html?uid=385)
-- ✔️ 넥슨코리아 사내 동아리 - Vibe Coding : 가장 쉬운 프로그래밍 언어는 한국어다.
+- ✔️ 넥슨코리아 (사내 동아리) - Vibe Coding : 가장 쉬운 프로그래밍 언어는 한국어다.
 - ✔️ 메타코드 - [Vibe Coding 실무형 1 Day 워크숍](https://www.datanet.co.kr/news/articleView.html?idxno=203465)
 - ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 2차](https://conference.etnews.com/conf_info.html?uid=406)
 <!--
