@@ -49,9 +49,12 @@ Here are some ideas to get you started:
 - ✔️ 메타코드 - [Vibe Coding 실무형 1 Day 워크숍](https://www.datanet.co.kr/news/articleView.html?idxno=203465)
 - ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 2차](https://conference.etnews.com/conf_info.html?uid=406)
 - ✔️ 멀티캠퍼스(임직원, SSAFY) - [AI 트랜드/문화] 새로운 개발 경험, 바이브 코딩 실습
+
+<!--
 - ✔️ 한국여성정책연구원 - 생성형 AI 시대, 전 직원을 위한 데이터 이해와 입문 (연구직, 행정직 대상)
 - ✔️ 한국여성정책연구원 - 업무자동화를 위한 파이썬 실전활용 (행정직 대상)
 - ✔️ 성남시청소년재단 - Code to Great: 주니어 개발자와 AI 협업
+-->
 
 <!--
 - ✔️ 국토안전관리원 - 3개 과정
