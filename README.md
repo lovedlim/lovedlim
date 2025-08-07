@@ -41,16 +41,24 @@ Here are some ideas to get you started:
 
 ### 💻 **강의/강연**
 2025년 
-- ✔️ 모두의연구소 - [n8n, AI를 나만의 업무 파트너로](https://event-us.kr/modu/event/100282)
-- ✔️ 중앙여고 - 커서AI와 V0를 활용한 웹사이트 만들기
-- ✔️ 강남서초교육지원청(교사 대상) - 생성형 AI 활용
-- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 1차](https://conference.etnews.com/conf_info.html?uid=385)
-- ✔️ 넥슨코리아 (사내 동아리) - Vibe Coding : 가장 쉬운 프로그래밍 언어는 한국어다.
-- ✔️ 메타코드 - [Vibe Coding 실무형 1 Day 워크숍](https://www.datanet.co.kr/news/articleView.html?idxno=203465)
-- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 2차](https://conference.etnews.com/conf_info.html?uid=406)
-- ✔️ 멀티캠퍼스(임직원, SSAFY) - [AI 트랜드/문화] 새로운 개발 경험, 바이브 코딩 실습
 - ✔️ 한국여성정책연구원 - 생성형 AI 시대, 전 직원을 위한 데이터 이해와 입문 (연구직, 행정직 대상)
 - ✔️ 한국여성정책연구원 - 업무자동화를 위한 파이썬 실전활용 (행정직 대상)
+- ✔️ 멀티캠퍼스(임직원, SSAFY) - [AI 트랜드/문화] 새로운 개발 경험, 바이브 코딩 실습
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 2차](https://conference.etnews.com/conf_info.html?uid=406)
+- ✔️ 메타코드 - [Vibe Coding 실무형 1 Day 워크숍](https://www.datanet.co.kr/news/articleView.html?idxno=203465)
+- ✔️ 넥슨코리아 (사내 동아리) - Vibe Coding : 가장 쉬운 프로그래밍 언어는 한국어다.
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 1차](https://conference.etnews.com/conf_info.html?uid=385)
+- ✔️ 강남서초교육지원청(교사 대상) - 생성형 AI 활용
+- ✔️ 중앙여고 - 커서AI와 V0를 활용한 웹사이트 만들기
+- ✔️ 모두의연구소 - [n8n, AI를 나만의 업무 파트너로](https://event-us.kr/modu/event/100282)
+
+
+
+
+
+
+
+
 
 
 <!--
