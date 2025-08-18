@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ### 💻 **강의/강연**
 2025년 
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 3차](https://conference.etnews.com/conf_info.html?uid=417)
+- ✔️ KISA 2025 WTMD - 프롬프트로 완성하는 나만의 서비스, 바이브 코딩
 - ✔️ 성남시청소년재단 - Code to Great: 주니어 개발자와 AI 협업
 - ✔️ 한국여성정책연구원 - 생성형 AI 시대, 전 직원을 위한 데이터 이해와 입문 (연구직, 행정직 대상)
 - ✔️ 한국여성정책연구원 - 업무자동화를 위한 파이썬 실전활용 (행정직 대상)
