@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 💻 **강의/강연**
 2025년 Tech 
-- ✔️ 방송기술교육원 - AI 활용 및 콘텐츠 제작 교육 - 바이브코딩 
+- ✔️ 방송기술교육원 - [AI 활용 및 콘텐츠 제작 교육 - 바이브코딩](http://edu.kobeta.com/education/index-list_cate1.php?idx=209&code=all&bgu=view)
 - ✔️ 서울소방학교 – AI와 소방의 미래 (신임자 170명)
 - ✔️ 서울시평생교육진흥원 – 생성형AI 업무활용 기초 과정
 - ✔️ 한국조세재정연구원 – AI를 활용한 행정업무 자동화 과정
