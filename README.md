@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📌 Founder of SideOnAI | Data Scientist & Developer | HRDer | DevRel
 - 📌 Ex- DB Inc., Riid, CodeStates, Modulabs
 - 📌 Kaggle Notebook Expert | TensorFlow Developers Certificate 
-- 📌 2024 Inflearn Award "답변왕" 수상 - 올해 가장 많은 답변을 남긴 지식공유자
+- 📌 2025, 2024 Inflearn Award 수상
 
 ### 온라인 강의 (VOD)
 - ⭐ 인프런 강의 수강자 6.1k (만족도 4.9/5점 만점)
