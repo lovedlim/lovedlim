@@ -48,7 +48,10 @@ Here are some ideas to get you started:
 - 서울소방학교 - AI기반 소방활용(기초) 과정 / 1기
 
 2025년 Tech 
+- ✔️ 중앙여고 - 교사를 위한 생성형AI 활용
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 5차](https://conference.etnews.com/conf_info.html?uid=461)
 - ✔️ 서울소방학교 – 소방행정실무 과정
+- ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 4차](https://conference.etnews.com/conf_info.html?uid=448)
 - ✔️ [2025블록체인 진흥주간 X 웹3.0컨퍼런스](https://blockchainweek.co.kr/2025/programDay.do?tab=2) - 바이브 코딩과 ChatGPT : 생성형 AI와 개발 생산성
 - ✔️ 서울소방학교 – 현장지휘관양성(초급) 과정 (소방위)
 - ✔️ EBS - [AI 활용 및 콘텐츠 제작 교육 - 바이브코딩](http://edu.kobeta.com/education/index-list_cate1.php?idx=209&code=all&bgu=view)
