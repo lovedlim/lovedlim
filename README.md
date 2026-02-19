@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 저서 (Books)
 - ⭐️ [한 걸음 앞선 일잘러가 지금 꼭 알아야할 바이브코딩 with 커서](https://product.kyobobook.co.kr/detail/S000219139681)
-- 😄 [2026 시나공 빅데이터분석기사 실기(Python)](https://product.kyobobook.co.kr/detail/S000216355151) / 개정판
+- 😄 [2026 시나공 빅데이터분석기사 실기(Python)](https://www.yes24.com/product/goods/145638676) / 개정판
 - ⚡ [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
 
 ### 학습 커뮤니티 리딩
