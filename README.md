@@ -39,7 +39,14 @@ Here are some ideas to get you started:
 - 2020.5 ~ 2024.12, [캐글/AI 학습 모임](https://github.com/lovedlim/ml-study) (200회 이상)
 - 2021 ~ 현재, 빅데이터 분석기사 스터디 - [오징어 게임](https://discord.gg/V8acvTnHhH)
 
-### 💻 **강의/강연**
+### 💻 **강의/강연 활동**
+2026년
+- JB금융그룹 - 바이브코딩 교육 with 커서 / 강의 및 사내 콘텐츠
+- JB금융그룹 - 사내 경진대회(해커톤) 기술 심사 (40개 팀)
+- 전자신문 - [‘바이브 코딩’으로 웹/앱 제작 워크숍(중급반) with Cursor + n8n](https://conference.etnews.com/conf_info.html?uid=467)
+- 디지털 오픈랩 x 인프런 - [AI를 활용한 데이터 수집과 데이터 분석](https://inf.run/A96Ct)
+- 서울소방학교 - AI기반 소방활용(기초) 과정 / 1기
+
 2025년 Tech 
 - ✔️ 서울소방학교 – 소방행정실무 과정
 - ✔️ [2025블록체인 진흥주간 X 웹3.0컨퍼런스](https://blockchainweek.co.kr/2025/programDay.do?tab=2) - 바이브 코딩과 ChatGPT : 생성형 AI와 개발 생산성
