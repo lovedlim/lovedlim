@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 - 2021 ~ 현재, 빅데이터 분석기사 스터디 - [오징어 게임](https://discord.gg/V8acvTnHhH)
 
 ### 💻 **강의/강연 활동**
-2026년
+2026년 상반기
 - JB금융그룹 - 바이브코딩 교육 with 커서 / 강의 및 사내 콘텐츠
 - JB금융그룹 - 사내 경진대회(해커톤) 기술 심사 (40개 팀)
 - 전자신문 - [‘바이브 코딩’으로 웹/앱 제작 워크숍(중급반) with Cursor + n8n](https://conference.etnews.com/conf_info.html?uid=467)
 - 디지털 오픈랩 x 인프런 - [AI를 활용한 데이터 수집과 데이터 분석](https://inf.run/A96Ct)
 - 서울소방학교 - AI기반 소방활용(기초) 과정 / 1기
 
-2025년 Tech 
+2025년 하반기 
 - ✔️ 중앙여고 - 교사를 위한 생성형AI 활용
 - ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 5차](https://conference.etnews.com/conf_info.html?uid=461)
 - ✔️ 서울소방학교 – 소방행정실무 과정
@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 - ✔️ 전자신문 - [코딩 몰라도 OK! '바이브 코딩'으로 웹/앱 제작 1-day 워크숍 1차](https://conference.etnews.com/conf_info.html?uid=385)
 - ✔️ 강남서초교육지원청(교사 대상) - 생성형 AI 활용
 - ✔️ 중앙여고 - 커서AI와 V0를 활용한 웹사이트 만들기
-- ✔️ 모두의연구소 - [n8n, AI를 나만의 업무 파트너로](https://event-us.kr/modu/event/100282)
-
+- ✔️ 모두의연구소 - n8n, AI를 나만의 업무 파트너로
 
 
 
