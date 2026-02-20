@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🤔 [[퇴근후딴짓] 빅데이터 분석기사 실기 (작업형1,2,3)](https://inf.run/HYmN) - 파이썬, 머신러닝, 통계
 
 ### 저서 (Books)
-- ⭐️ [한 걸음 앞선 일잘러가 지금 꼭 알아야할 바이브코딩 with 커서](https://product.kyobobook.co.kr/detail/S000219139681)
+- ⭐️ [한 걸음 앞선 일잘러가 지금 꼭 알아야할 바이브코딩 with 커서](https://www.yes24.com/product/goods/176548558)
 - 😄 [2026 시나공 빅데이터분석기사 실기(Python)](https://www.yes24.com/product/goods/145638676) / 개정판
 - ⚡ [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
 
